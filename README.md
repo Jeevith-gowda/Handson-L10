@@ -40,7 +40,7 @@ Build a real-time fare prediction system that estimates ride fares based on trip
 - **Anomaly Detection:** Calculate deviation = |actual_fare - predicted_fare|
 
 ### Output
-![Task 4 Output](task4_output.png)
+![Task 4 Output](task4_output.jpg)
 
 ### Key Insights
 - Model successfully predicts fares based on distance with reasonable accuracy
@@ -77,7 +77,7 @@ Predict average fare trends using time-based features with temporal aggregation.
 - **Trend Prediction:** Use trained model to predict next window's average fare
 
 ### Output
-![Task 5 Output](task5_output.png)
+![Task 5 Output](task5_output.jpg)
 
 ### Key Insights
 - Time-based patterns significantly influence fare amounts
