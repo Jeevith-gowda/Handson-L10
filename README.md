@@ -1,10 +1,11 @@
 # Spark Structured Streaming + MLlib - Hands-on L10
 
 ## Student Information
-- **Name:** Jeevith
+- **Name:** Jeevith Doddalingegowda Rama
 - **Course:** ITCS 6190/8190 - Cloud Computing for Data Analysis
 - **Semester:** Fall 2025
 - **Assignment:** Tasks 4 & 5
+- **ID:** 801455831
 
 ---
 
